@@ -32,7 +32,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="721" alt="Post Install Config1" src="https://github.com/Scott8790/post-install-config/assets/172638339/af2de995-0217-4140-95c9-450bd8bddaed">
+
 </p>
 <p>
 Admin Panel -> Agents -> Roles  
@@ -43,7 +44,8 @@ Admin Panel -> Agents -> Roles
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="718" alt="Post Install Config2" src="https://github.com/Scott8790/post-install-config/assets/172638339/81a9be5b-05a1-4204-aced-ce57542c6eb3">
+
 </p>
 <p>
 Admin Panel -> Agents -> Departments
@@ -57,9 +59,11 @@ Admin Panel -> Agents -> Departments
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Admin Panel -> Agents -> Teams
+
+  Level I & II Support
+  
 </p>
-<br /># post-install-config
 
 </p>
 <br />
@@ -68,9 +72,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Admin Panel -> Settings -> Authentication Settings
+
+  Registration Required: Require registration and login to create tickets
+  
 </p>
-<br /># post-install-config
 
 </p>
 <br />
