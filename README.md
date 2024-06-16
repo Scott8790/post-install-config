@@ -91,7 +91,7 @@ Admin Panel -> Settings -> Users Settings
 <p>
 Admin Panel -> Agents -> Add New
 
-  Jane and John Doe (assign to department and/or teams as necessary)
+  Jane and John Doe (assign to department and teams as necessary)
   
 </p>
 
@@ -99,12 +99,14 @@ Admin Panel -> Agents -> Add New
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="724" alt="Post Install Config6" src="https://github.com/Scott8790/post-install-config/assets/172638339/72f1b105-9b08-4345-ae85-1edebf159e07">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Agent Panel -> Users -> Add New
+
+  Karen & Ken (customers/users create tickets and cannot close them)
 </p>
-<br /># post-install-config
 
 </p>
 <br />
@@ -113,15 +115,30 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Admin Panel -> Manage -> SLA
+
+  Sev-A (1 hour, 24/7) highest priority needs to be solved and closed ASAP
+
+  Sev-B (4 hours, 24/7) high priority needs to be solved and closed within 4 hrs of ticket creation
+
+  Sev-C (8 hours, business hours) low to mid priority needs to be solved and closed by the 8th business hour not on weekends
 </p>
-<br /># post-install-config
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Admin Panel -> Manage -> Help Topics
+
+  Business Critical Outage
+
+  Personal Computer Issues
+
+  Equipment Request
+
+  Password Reset
+
+  
 </p>
 <br /># post-install-config
 
