@@ -112,7 +112,8 @@ Agent Panel -> Users -> Add New
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="710" alt="Post Install Config7" src="https://github.com/Scott8790/post-install-config/assets/172638339/a291eb65-f672-46cf-a166-94ff8ab33ccf">
+
 </p>
 <p>
 Admin Panel -> Manage -> SLA
@@ -121,11 +122,12 @@ Admin Panel -> Manage -> SLA
 
   Sev-B (4 hours, 24/7) high priority needs to be solved and closed within 4 hrs of ticket creation
 
-  Sev-C (8 hours, business hours) low to mid priority needs to be solved and closed by the 8th business hour not on weekends
+  Sev-C (8 hours, business hours) low to mid priority needs to be solved and closed by the 8th business hour, not on weekends
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="723" alt="Post Install Config8" src="https://github.com/Scott8790/post-install-config/assets/172638339/8d5f3440-34ce-4355-8c0d-fcc681792052">
+
 </p>
 <p>
 Admin Panel -> Manage -> Help Topics
